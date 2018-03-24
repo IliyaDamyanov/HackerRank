@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Append and Delete", "Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cut the sticks", "Algorithms\Implementation\Cut the sticks\Cut the sticks.csproj", "{ADCC3499-E2A4-4FBC-811C-E755762BC9C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated String", "Algorithms\Implementation\Repeated String\Repeated String.csproj", "{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{ADCC3499-E2A4-4FBC-811C-E755762BC9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADCC3499-E2A4-4FBC-811C-E755762BC9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADCC3499-E2A4-4FBC-811C-E755762BC9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -308,6 +314,7 @@ Global
 		{A10CD284-504F-4CA8-AAD4-1B6BCACBF3A9} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 		{00C26512-F01E-4911-AA20-BD7B0BFE09DF} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 		{ADCC3499-E2A4-4FBC-811C-E755762BC9C6} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
+		{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {376677B0-75B3-4A3A-9508-5B203F88D71C}

@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated String", "Algorith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping on the Clouds", "Algorithms\Implementation\Jumping on the Clouds\Jumping on the Clouds.csproj", "{D50693BD-8E84-46B4-93C2-E65F5969AFD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equalize the Array", "Algorithms\Implementation\Equalize the Array\Equalize the Array.csproj", "{033B25E8-EC6C-46AA-81DA-A00823080B88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{D50693BD-8E84-46B4-93C2-E65F5969AFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D50693BD-8E84-46B4-93C2-E65F5969AFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D50693BD-8E84-46B4-93C2-E65F5969AFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033B25E8-EC6C-46AA-81DA-A00823080B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033B25E8-EC6C-46AA-81DA-A00823080B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033B25E8-EC6C-46AA-81DA-A00823080B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033B25E8-EC6C-46AA-81DA-A00823080B88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -322,6 +328,7 @@ Global
 		{ADCC3499-E2A4-4FBC-811C-E755762BC9C6} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 		{1925CEFF-F8E5-42C6-AEAF-C5B5DA062A77} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 		{D50693BD-8E84-46B4-93C2-E65F5969AFD3} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
+		{033B25E8-EC6C-46AA-81DA-A00823080B88} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {376677B0-75B3-4A3A-9508-5B203F88D71C}

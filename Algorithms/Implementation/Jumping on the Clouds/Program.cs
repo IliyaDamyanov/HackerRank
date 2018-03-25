@@ -7,13 +7,9 @@ namespace Jumping_on_the_Clouds
         static int jumpingOnClouds(int[] c)
         {
             int counter = 0;
-            if (c.Length == 2)
+            if (c.Length == 2 || c.Length == 3)
             {
                 return 1;
-            }
-            if (c.Length == 3)
-            {
-                return 2;
             }
             for (int i = 0; i < c.Length;)
             {

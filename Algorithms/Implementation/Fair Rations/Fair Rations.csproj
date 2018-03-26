@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42B9AFE8-31FA-4474-B3A2-C8C1DBFCCC81}</ProjectGuid>
+    <ProjectGuid>{D07025EB-CB78-4BF7-82FB-C9AD0C752FEE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Minimum_Distances</RootNamespace>
-    <AssemblyName>Minimum Distances</AssemblyName>
+    <RootNamespace>Fair_Rations</RootNamespace>
+    <AssemblyName>Fair Rations</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

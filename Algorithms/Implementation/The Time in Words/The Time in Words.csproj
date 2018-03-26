@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42B9AFE8-31FA-4474-B3A2-C8C1DBFCCC81}</ProjectGuid>
+    <ProjectGuid>{303A3F20-3BBC-404B-BFAF-E1BDBB8628D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Minimum_Distances</RootNamespace>
-    <AssemblyName>Minimum Distances</AssemblyName>
+    <RootNamespace>The_Time_in_Words</RootNamespace>
+    <AssemblyName>The Time in Words</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

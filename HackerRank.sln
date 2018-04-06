@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service Lane", "Algorithms\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful Triplets", "Algorithms\Implementation\Beautiful Triplets\Beautiful Triplets.csproj", "{79D99A26-3402-4BEA-B76C-0B2708FF62E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence Equation", "Algorithms\Implementation\Sequence Equation\Sequence Equation.csproj", "{A43B2771-761D-41AB-B8D1-9587B20CCE39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{79D99A26-3402-4BEA-B76C-0B2708FF62E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D99A26-3402-4BEA-B76C-0B2708FF62E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D99A26-3402-4BEA-B76C-0B2708FF62E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43B2771-761D-41AB-B8D1-9587B20CCE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43B2771-761D-41AB-B8D1-9587B20CCE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43B2771-761D-41AB-B8D1-9587B20CCE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43B2771-761D-41AB-B8D1-9587B20CCE39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -364,6 +370,7 @@ Global
 		{303A3F20-3BBC-404B-BFAF-E1BDBB8628D1} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 		{5379A12A-86F7-4BEE-A5E9-A7046F958D07} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 		{79D99A26-3402-4BEA-B76C-0B2708FF62E6} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
+		{A43B2771-761D-41AB-B8D1-9587B20CCE39} = {06758824-2713-46F7-A3E4-71D9CCDBCD03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {376677B0-75B3-4A3A-9508-5B203F88D71C}
